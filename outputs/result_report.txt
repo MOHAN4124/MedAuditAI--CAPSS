@@ -1,0 +1,8 @@
+🧾 Checklist:
+1. [⚠️] Item 1: Drug X was not found in guidelines
+2. [✅] Item 2: Dosage Y is above safe limit for Class IV patients
+3. ✅ Recommendations:
+  - Replace Drug X with Drug Y
+  - Lower dosage to  25 mg
+
+🔚 Final Verdict: "Needs Review"

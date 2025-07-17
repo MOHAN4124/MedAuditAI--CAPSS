@@ -1,0 +1,6 @@
+streamlit
+PyMuPDF
+requests
+fitz
+python-docx
+python-docx
